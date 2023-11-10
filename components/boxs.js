@@ -7,4 +7,16 @@ class Box extends ODD {
         super(i);
         this.#tipe = i.tipe;
     }
+
+    #Build(){
+
+        switch(this.#tipe){
+
+            case 0:
+            break;
+
+            case 1:
+            break;
+        }
+    }
 }

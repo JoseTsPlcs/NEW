@@ -6,4 +6,9 @@ class ODD {
 
         this._name=name;
     }
+
+    LogAction({msg}){
+
+        console.log(msg);
+    }
 }

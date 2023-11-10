@@ -17,4 +17,8 @@ class ODD {
 
         
     }
+
+    _CallEvent({name}){
+
+    }
 }

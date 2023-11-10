@@ -8,6 +8,7 @@ class Box extends ODD {
         this.#tipe = i.tipe;
     }
 
+    #boxs=[];
     #Build(){
 
         switch(this.#tipe){
